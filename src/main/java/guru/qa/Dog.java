@@ -2,8 +2,6 @@ package guru.qa;
 
 public class Dog {
 
-    static String friend_of_human = "dog man's friend";
-
     String color;
     int age;
     String breed_type;
@@ -31,9 +29,6 @@ public class Dog {
         return origin;
     }
 
-    static void who_friend_of_human() {
-        System.out.println(friend_of_human);
-    }
 
 
 }

@@ -19,8 +19,6 @@ public class Main {
 
         System.out.println("___________________________");
 
-        Dog.who_friend_of_human();
-
 
 
 
